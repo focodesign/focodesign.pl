@@ -8,7 +8,7 @@
 body, html {
   width: 100%;
   height: 100%;
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif; /* Измените здесь */
   color: white;
   display: flex;
   justify-content: center;
@@ -43,9 +43,9 @@ body, html {
 }
 
 .text-background {
-  background-color: rgba(0, 0, 0, 0.3); /* Черный с прозрачностью 30% */
+  background-color: rgba(0, 0, 0, 0.5); /* Черный с прозрачностью 50% */
   padding: 20px;
-  border-radius: 5px; /* Закругленные углы */
+  border-radius: 3px; /* Закругленные углы */
 }
 
 h1 {
