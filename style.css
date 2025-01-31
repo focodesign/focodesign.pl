@@ -43,9 +43,9 @@ body, html {
 }
 
 .text-background {
-  background-color: rgba(0, 0, 0, 0.7); /* Черный с прозрачностью 70% */
+  background-color: rgba(0, 0, 0, 0.3); /* Черный с прозрачностью 30% */
   padding: 20px;
-  border-radius: 10px; /* Закругленные углы */
+  border-radius: 5px; /* Закругленные углы */
 }
 
 h1 {
